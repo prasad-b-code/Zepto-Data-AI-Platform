@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local DBs and temporary artifacts
+*.sqlite
+*.db
+.DS_Store
+.vscode/
