@@ -2,8 +2,6 @@
 
 An end-to-end quick-commerce engineering ecosystem integrating distributed data pipelines, predictive analytics, and an offline-first GenAI retrieval-augmented generation (RAG) service.
 
----
-
 ## Repository Overview
 
 This repository houses three core modules powering quick commerce operations:
@@ -19,7 +17,7 @@ This repository houses three core modules powering quick commerce operations:
 
 ---
 
-## 📂 Repository Architecture
+## Repository Architecture
 
 ```text
 Zepto-Data-AI-Platform/
