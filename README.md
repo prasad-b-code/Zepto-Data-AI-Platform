@@ -4,7 +4,7 @@ An end-to-end quick-commerce engineering ecosystem integrating distributed data 
 
 ---
 
-## 📌 Repository Overview
+## Repository Overview
 
 This repository houses three core modules powering quick commerce operations:
 

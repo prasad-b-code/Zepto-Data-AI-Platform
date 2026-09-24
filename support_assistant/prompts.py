@@ -1,12 +1,5 @@
 from langchain_core.prompts import PromptTemplate
 
-# ============================================================================
-# Task 2: Structured Prompt Template
-# Structure: Role -> Context -> Task -> Format -> Length
-# Constraints: Explicit negative constraint included
-# Few-shot: Grounded demonstration included
-# ============================================================================
-
 SYSTEM_RAG_PROMPT = """[ROLE]
 You are Zepto's official AI Support Assistant, providing clear, concise, and strictly factual policy guidance to customers.
 
